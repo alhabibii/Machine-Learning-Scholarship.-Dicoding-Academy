@@ -1,4 +1,5 @@
-#      		**Image Classification Model Deployment. **                                                                							**Web Scrapping + Kaggle**
+#      		**Image Classification Model Deployment**                                                                							                                                       
+#                  **Web Scrapping + Kaggle**
 
 
 
